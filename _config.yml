@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 logo: https://avatars2.githubusercontent.com/u/58533111?s=400&u=a8cbde2b31f339d5729fa452216bcb3e947c0a28&v=4
 title: JsonRpcNet
 description: Documented JSON RPC 2.0 Websocket Endpoints
