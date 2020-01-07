@@ -2,3 +2,4 @@ theme: jekyll-theme-cayman
 logo: /assets/images/banner-JsonRpcNet.svg
 title: JsonRpcNet
 description: Documented JSON RPC 2.0 Websocket Endpoints
+organization_url: https://github.com/JsonRpcNet
