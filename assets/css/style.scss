@@ -6,6 +6,18 @@ img.project-name {
   margin: auto;
   margin-bottom: 50px;
   height: 100px;
+
+  @include large {
+    font-size: 600px;
+  }
+
+  @include medium {
+    font-size: 450px;
+  }
+
+  @include small {
+    width: 300px;
+  }
 }
 
 h1.project-name {
